@@ -16,8 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`11`, `11.10`, `11.10.2`, `11-mysql-tomcat`, `11.10-mysql-tomcat`, `11.10.2-mysql-tomcat`, `stable-mysql-tomcat`, `stable-mysql`, `stable`, `latest`, `mysql-tomcat`, `lts-mysql-tomcat`, `lts-mysql`, `lts`](https://github.com/xwiki-contrib/docker-xwiki/blob/ab4e20f0ae8562b801f7f4901b931b8d9405b697/11/mysql-tomcat/Dockerfile)
--	[`11-postgres-tomcat`, `11.10-postgres-tomcat`, `11.10.2-postgres-tomcat`, `stable-postgres-tomcat`, `stable-postgres`, `postgres-tomcat`, `lts-postgres-tomcat`, `lts-postgres`](https://github.com/xwiki-contrib/docker-xwiki/blob/ab4e20f0ae8562b801f7f4901b931b8d9405b697/11/postgres-tomcat/Dockerfile)
+**WARNING:** THIS IMAGE *IS NOT SUPPORTED* ON THE `s390x` ARCHITECTURE
+
+[![s390x/xwiki build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/s390x/job/xwiki.svg?label=s390x/xwiki%20%20build%20job)](https://doi-janky.infosiftr.net/job/multiarch/job/s390x/job/xwiki/)
 
 # Quick reference
 
